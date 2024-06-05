@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Projects that make a profound impact on the people around me.**
 
-- 👨‍💻 All of my projects are available at [Github :)](Github :))
+- 👨‍💻 All of my projects are available on Github
 
 - 💬 Ask me about **ReactNative**
 
