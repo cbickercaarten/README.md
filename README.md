@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available on Github
 
-- 💬 Ask me about **ReactNative**
-
 - 📫 How to reach me **charliebc@ucla.edu**
 
 <h3 align="left">Connect with me:</h3>
